@@ -5,21 +5,15 @@ DnH Database Study Group
 
 To get some fundamental knowledge of database design and query execution. Most of programmers use databases as a black box and our aim is to gain insight in how the underlying software works by watching lectures and discussing topics. 
 
----
-
 ### Idea:
 
-We are planning to watch the lectures of CMU's Introduction to Databases(https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) by Prof. Andy Pavlov. 
-
----
+We are planning to watch the lectures of [CMU's Introduction to Databases](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) by Prof. Andy Pavlov. 
 
 ### Method: 
 
 The tentative plan is to watch 1 lecture video per week; and have a meeting fortnightly(1 hour) to discuss the concepts of the lectures or any doubts. We will also have a text channel where we can post questions or doubts throughout the week so that we can discuss asynchronously and everyone can watch the lectures at their own pace.
 
 The expectation is that people are regular for the meetings and interested in learning more about databases. 
-
----
 
 ### Schedule: 
 
