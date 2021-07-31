@@ -1,3 +1,6 @@
+DnH Database Study Group
+---
+
 ### Goal: 
 
 To get some fundamental knowledge of database design and query execution. Most of programmers use databases as a black box and our aim is to gain insight in how the underlying software works by watching lectures and discussing topics. 
