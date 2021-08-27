@@ -73,9 +73,20 @@ We will also have a text channel where we can post questions or doubts throughou
 
 Tentative cadence: 2 weeks of calls, 1 week break, rinse and repeat.
 
-- August 1        : Introductory call and gauge interest in topics from people
-- August 1 - 8    : Watch Lecture 1 and 2 of Missing Semester
-- August 8        : 30 mins meeting to discuss last week's learnings. 
-- so on...
+- August 1          : Introductory call and gauge interest in topics from people
+- August 1 - 8      : Watch Lecture 1 and 2 of Missing Semester
+- August 8          : Discuss last week's learnings, Filesystem Hierarchy Standard
+- August 8 - 15     : Watch Lecture 5 of Missing Semester, home assignment on `sudo`
+- August 15         : Overview of Cloud and VPS
+- August 15 - 29    : Watch explainer videos on Cloud infrastructure, IaaS, PaaS, SaaS
+- August 29         : Overview of Provisioning tools, demo of a sample cloud application provisioned via IaaC
+- Aug 29 - Sep 5    : Watch explainer videos/tutorials of Cloud Provisioning
+- September 5       : Overview of Continuous Integration and Continuous Delivery
+- September 5 - 12  : Watch explainer videos on CI/CD
+- September 12      : Overview of Cloud Native tools - Part 1
+- September 12 - 19 : Watch explainer videos on Docker, Orchestration, Service Discovery
+- September 19      : Cloud Native - Part 2
+- September 19 - 25 : Watch explainer videos on Docker automation, Kubernetes
+- September 25      : Distributed systems, next steps, closing call
 
 
